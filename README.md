@@ -8,7 +8,7 @@ This application is a method to find which London Underground Stations are betwe
 
 ## Pre-requisites
 ### API KEY
-You will need to generate an API KEY to run the application. Information on how to do this can be found here: https://api.tfl.gov.uk/.
+You will need to generate an API KEY to run the application and place the API KEY in the primary key global variable in GetStationsDurations.py. Information on how to do this can be found here: https://api.tfl.gov.uk/.
 
 The application is limited to 500 API requests per minute under TFL API's default limits.
 
